@@ -42,3 +42,4 @@ With the use of sklearn's GridSearchCV, hyperparameters were tuned to increase t
 * **model_06_SGD.ipynb:** First test using a stochastic gradient descent classifier.  *Hunter_submission17.csv, Public Score: 0.72009*
 * **model_07_SVC.ipynb:** First test using support vector classification.  Ties with the high scores from LinearSVC and LogisticRegression  __*Hunter_submission18.csv, Public Score: 0.77990*__
 * **model_01g_LogisticRegression.ipynb:** Back to testing Logistic Regression after redoing features according to a notebook I was learning from.  *Hunter_submission19.csv, Public Score: 0.56459*
+* **model_01h_LogisticRegression.ipynb:** Like the preceding notebook, uses transformed features according to another person's notebook tips.  This time, however, I used Random Forest to do feature selection.  The score improved.  *Hunter_submission20.csv, Public Score: 0.77272*
